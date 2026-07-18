@@ -107,33 +107,32 @@ python main.py
 
 ## 🧑 Create a Person
 
-![Create Person](screenshots/create%20a%20person.png)
+<img width="1039" height="426" alt="Screenshot 2026-07-17 190632" src="https://github.com/user-attachments/assets/cfb2fdcc-4b3b-4651-ba15-7c7434045a94" />
 
----
+
 
 ## 👨‍💼 Create an Employee
 
-![Create Employee](screenshots/create%20an%20employee.png)
+<img width="1034" height="490" alt="Screenshot 2026-07-17 190810" src="https://github.com/user-attachments/assets/18022403-4073-4efb-912c-5cc1f9d6ae73" />
 
----
+
 
 ## 👔 Create a Manager
 
-![Create Manager](screenshots/create%20a%20manager.png)
+<img width="1040" height="518" alt="Screenshot 2026-07-17 191004" src="https://github.com/user-attachments/assets/37dc6435-a55e-4d73-b417-f581fe44a7ca" />
 
----
+
 
 ## 📋 Show Details
 
-![Show Details](screenshots/show%20details.png)
+<img width="1037" height="394" alt="Screenshot 2026-07-17 191109" src="https://github.com/user-attachments/assets/b39ef58e-c828-4af3-a96c-aee8aac55051" />
 
----
+
 
 ## ❌ Exit
 
-![Exit](screenshots/exit.png)
+<img width="1039" height="226" alt="Screenshot 2026-07-17 191207" src="https://github.com/user-attachments/assets/db552ae9-4f55-4192-aa1d-2de45143d85d" />
 
----
 
 # 🎥 Demo Video
 
