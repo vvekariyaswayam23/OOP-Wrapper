@@ -19,11 +19,15 @@
 
 # 📖 About the Project
 
-This project is developed in **Python** to demonstrate the fundamentals of **Object-Oriented Programming (OOP)**.
+-- This project is developed in **Python** to demonstrate the 
+   fundamentals of **Object-Oriented Programming (OOP)**.
 
-The application provides a simple menu-driven system where users can create a **Person**, **Employee**, and **Manager**, and display their details.
+-- The application provides a simple menu-driven system where 
+   users can create a **Person**, **Employee**, and **Manager**, 
+   and display their details.
 
-It is beginner-friendly and useful for understanding real-world OOP implementation.
+-- It is beginner-friendly and useful for understanding real-world 
+   OOP implementation.
 
 ---
 
